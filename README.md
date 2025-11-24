@@ -1,4 +1,4 @@
-# AI_recruitment
+# AI-recruitment
 Deploy the AI-powered automatic resume scoring workflow locally.
 
 ## work_flow_1.py
